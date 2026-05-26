@@ -14,15 +14,14 @@ Passionate about creating real-time applications, scalable backend systems, and 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech Information Technology student at **ANITS, Visakhapatnam**
-- 💻 Full Stack Developer focused on scalable and real-time applications
-- ⚡ Building projects with **Next.js, TypeScript, Node.js, PostgreSQL, Docker**
-- 🔥 Interested in **System Design, DevOps, Cloud, and Backend Engineering**
-- 🧠 Solved **300+ DSA problems** on LeetCode
-- 🏆 IEEE National Hackathon Finalist (**Top 50 / 3000+ teams**)
-- 🌱 Currently learning **AWS, CI/CD, Docker orchestration, and scalable architectures**
+-  B.Tech Information Technology student at **ANITS, Visakhapatnam**
+-  Full Stack Developer focused on scalable and real-time applications
+-  Building projects with **Next.js, TypeScript, Node.js, PostgreSQL, Docker**
+-  Interested in **System Design, DevOps, Cloud, and Backend Engineering**
+-  IEEE National Hackathon Finalist (**Top 50 / 3000+ teams**)
+-  Currently learning **AWS, CI/CD, Docker orchestration, and scalable architectures**
 
 ---
 
@@ -45,75 +44,6 @@ Passionate about creating real-time applications, scalable backend systems, and 
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
 </a>
 </p>
-
----
-
-# 💼 Featured Projects
-
-## 🎨 Excalidraw Clone
-
-A collaborative whiteboard application inspired by Excalidraw with drawing tools, element selection, and real-time architecture.
-
-### Tech Stack
-- Next.js
-- TypeScript
-- Canvas API
-- WebSockets
-- PostgreSQL
-- Prisma
-- Docker
-
-### Features
-- ✏️ Freehand drawing
-- 📐 Shapes & line tools
-- 🎯 Element selection system
-- ⚡ Real-time synchronization
-- 🐳 Dockerized architecture
-- 🔄 Scalable backend communication
-
----
-
-## 💬 Real-Time Chat Application
-
-A scalable real-time chat platform supporting rooms, instant messaging, and concurrent users using WebSockets.
-
-### Tech Stack
-- Next.js
-- TypeScript
-- Node.js
-- Express.js
-- Socket.io
-- Prisma ORM
-- PostgreSQL
-
-### Features
-- ⚡ Real-time messaging
-- 🏠 Room creation & joining
-- 🔐 Authentication flow
-- 📡 WebSocket communication
-- 🧩 Scalable backend structure
-- 🚀 Optimized low-latency architecture
-
----
-
-## 🧠 Second-Brainly
-
-A productivity platform to organize YouTube links, X posts, notes, and resources in a centralized dashboard.
-
-### Tech Stack
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-- Tailwind CSS
-
-### Features
-- 🔐 Secure authentication
-- 📚 Resource organization
-- 🧾 CRUD operations
-- ⚡ Fast API performance
-- 📱 Responsive UI
 
 ---
 
